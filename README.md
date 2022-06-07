@@ -1,3 +1,2 @@
-Dhyanaresearch.org
   						
 						under construction
