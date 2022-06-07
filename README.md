@@ -1,2 +1,2 @@
-# aghatpande.github.io.
+# aghatpande.github.io
 DRF website
