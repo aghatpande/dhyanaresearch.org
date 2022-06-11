@@ -1,6 +1,9 @@
+body {
+    background-color: #2f2f2f;
+}
 h1 {
     text-align: center;
-    color: blue;
+    color: rgb(143, 143, 255);
     font-size: 5vh;
 }
 
@@ -8,4 +11,10 @@ h2 {
     text-align: center;
     color: lightblue;
     font-size: 3vh;
+}
+
+p {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 2vh;
 }
