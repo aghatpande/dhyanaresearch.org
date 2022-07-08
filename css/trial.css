@@ -20,13 +20,16 @@ p {
 }
 
 .const-image {
+    width:40vw;
     position: absolute;
     left: 0%;
     top: 50%;
-    transform: translate(-10%,-50%);
+    transform: translate(-20%,-50%);
 }
 
 .page-button {
+    height: 10vh;
+    width: 20vw;
     position: absolute;
     color: white;
     background-color: black;
