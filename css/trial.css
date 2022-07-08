@@ -21,9 +21,9 @@ p {
 
 .const-image {
     position: absolute;
-    left: -5px;
+    left: -10%;
     top: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(0%,-50%);
 }
 
 .page-button {
