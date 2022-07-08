@@ -28,8 +28,9 @@ p {
 }
 
 .page-button {
-    height: 10vh;
-    width: 20vw;
+    height: 6vh;
+    padding:0vw 1vw;
+    font-size: 2vh;
     position: absolute;
     color: white;
     background-color: black;
