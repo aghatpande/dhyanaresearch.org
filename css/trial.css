@@ -28,15 +28,21 @@ p {
 }
 
 .page-button {
-    height: 6vh;
-    padding:0vw 1vw;
+    outline: none;
+    padding: 2vh 2vw;
     font-size: 2vh;
     position: absolute;
     color: white;
     background-color: black;
+    transition: background-color 500ms, font-size 500ms;
     border-radius: 10px;
     border-width: 0;
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
+}
+.page-button:hover {
+    background-color: rgb(30,30,30);
+    font-size: 200%;
+    transition: background-color 200ms, font-size 200ms;
 }
