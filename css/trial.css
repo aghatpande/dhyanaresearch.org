@@ -21,7 +21,7 @@ p {
 
 .const-image {
     position: absolute;
-    left: -30px;
+    left: -5px;
     top: 50%;
     transform: translate(-50%,-50%);
 }
