@@ -14,3 +14,7 @@ h1 {
     font-family: 'Courier New', Courier, monospace;
     font-weight: 700;
 }
+
+body {
+    background-color: #F1F0EE;
+}
